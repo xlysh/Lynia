@@ -1,2 +1,2 @@
 # Lynia
-The most advanced Minecraft SMP
+Minecraft Hosting
